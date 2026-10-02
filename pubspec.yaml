@@ -1,0 +1,16 @@
+name: capitao_maybank
+description: CAPITAO MAYBANK assistente pessoal
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^4.2.0
+  speech_to_text: ^7.0.0
+
+flutter:
+  uses-material-design: true
